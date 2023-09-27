@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "url": "https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554__340.jpg",
+    "description": "White kitten with blue eyes and paws folded gazes upward"
+  },
+  {
+    "id": 2,
+    "url": "https://cdn.pixabay.com/photo/2014/04/13/20/49/cat-323262__340.jpg",
+    "description": "Ginger and white tabby licks its paw"
+  },
+  {
+    "id": 3,
+    "url": "https://cdn.pixabay.com/photo/2015/03/27/13/16/maine-coon-694730__340.jpg",
+    "description": "Black cat with yellow eyes in partial shadow"
+  },
+  {
+    "id": 4,
+    "url": "https://cdn.pixabay.com/photo/2016/03/28/10/05/kitten-1285341__340.jpg",
+    "description": "White kitten with green eyes peers at camera upside down"
+  }
+]
